@@ -1,5 +1,5 @@
 cia mano pirma programa
 =======================
-#Pirmas sk.
+Pirmas sk.
 ---
 hfgffhffg
