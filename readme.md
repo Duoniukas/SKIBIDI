@@ -2,4 +2,5 @@ cia mano pirma programa
 =======================
 Pirmas sk.
 ---
-hfgffhffg
+printf(*%*c",10,'*')
+
